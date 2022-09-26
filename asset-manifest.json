@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CandyCrush/static/css/main.5bcc7445.css",
+    "main.css": "/CandyCrush/static/css/main.ec6a6975.css",
     "main.js": "/CandyCrush/static/js/main.77898ba3.js",
     "static/js/787.b69e386e.chunk.js": "/CandyCrush/static/js/787.b69e386e.chunk.js",
     "index.html": "/CandyCrush/index.html",
-    "main.5bcc7445.css.map": "/CandyCrush/static/css/main.5bcc7445.css.map",
+    "main.ec6a6975.css.map": "/CandyCrush/static/css/main.ec6a6975.css.map",
     "main.77898ba3.js.map": "/CandyCrush/static/js/main.77898ba3.js.map",
     "787.b69e386e.chunk.js.map": "/CandyCrush/static/js/787.b69e386e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bcc7445.css",
+    "static/css/main.ec6a6975.css",
     "static/js/main.77898ba3.js"
   ]
 }
